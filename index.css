@@ -1,0 +1,67 @@
+/* *{
+    background-color: burlywood;
+} */
+.h1{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+   border: 2px solid #000000;
+
+}
+.E{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+   border: 2px solid #000000;
+    justify-content: center;
+    align-items: center;
+
+}
+.A{
+    margin-left: 300px;
+    margin-right: 300px;
+    color: rgb(2, 0, 0);
+    font-family: verdana;
+    font-size: 10px;
+    font-weight:normal;
+    text-align: center;
+
+}
+.s{
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight:normal;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.ii{
+    background-color: rgb(199, 109, 109);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: px;;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto; 
+    margin-left: auto;
+
+}
